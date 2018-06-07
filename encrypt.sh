@@ -1,3 +1,4 @@
+//this is first comment
 if [ $# -eq 0 || $# > 1 ]
 then
 	echo "File and/or password not specified!"
